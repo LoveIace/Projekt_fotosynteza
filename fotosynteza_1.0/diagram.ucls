@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="luka.Listnaty" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/luka/Listnaty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="118" x="170" y="1436"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="luka.Strom" project="fotosynteza_1.0" file="/fotosynteza_1.0/src/luka/Strom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="170" y="1225"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="luka.Oblast" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/luka/Oblast.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="144" x="170" y="340"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="rocne.obdobie.Jar" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/rocne/obdobie/Jar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="351" y="852"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="pocasie.Pocasie" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/pocasie/Pocasie.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="184" x="354" y="340"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="rocne.obdobie.Jesen" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/rocne/obdobie/Jesen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="478" y="852"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="luka.Rastlina" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/luka/Rastlina.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="141" x="170" y="852"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="luka.Trava" project="fotosynteza_1.0" file="/fotosynteza_1.0/src/luka/Trava.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="104" x="297" y="1225"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="luka.Ihlicnan" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/luka/Ihlicnan.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="116" x="328" y="1436"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="rocne.obdobie.Rok" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/rocne/obdobie/Rok.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="578" y="340"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="rovnice.Fotosynteza" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/rovnice/Fotosynteza.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="186" x="170" y="39"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="rocne.obdobie.Obdobie" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/rocne/obdobie/Obdobie.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="136" x="578" y="605"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="luka.Policko" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/luka/Policko.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="148" x="170" y="605"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="rocne.obdobie.Zima" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/rocne/obdobie/Zima.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="605" y="852"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="rocne.obdobie.Leto" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/rocne/obdobie/Leto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="732" y="852"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="main.Proces" project="fotosynteza_1.0" 
+    file="/fotosynteza_1.0/src/main/Proces.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="211" x="396" y="39"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="17">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="18" name="pocasie"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="21" name="obdobie"/>      
+      <multiplicity id="22" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="24">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="25" name="area"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="28">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="29" name="rastlina"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="33">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="34" name="oblast"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="38">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="39" name="obdobia"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
